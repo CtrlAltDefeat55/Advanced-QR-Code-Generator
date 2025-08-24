@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Advanced QR Code Generator (Tkinter)
 
 A cross‑platform desktop app to **create beautiful, scannable QR codes** with a live preview, gradients or solid colors,
@@ -105,3 +104,4 @@ Add a license if you plan to distribute. Otherwise, this code is provided as‑i
 # Advanced-QR-Code-Generator
 A cross-platform desktop app to create QR codes with a live preview and customization
 >>>>>>> e555cdff646a229d6ae6116c6e8fc5552605ba76
+
