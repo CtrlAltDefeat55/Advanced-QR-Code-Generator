@@ -36,11 +36,7 @@ six module styles, optional **logo overlay** with rotation/size controls, **drag
 
 ## Screenshot
 
-> Add a screenshot at `assets/screenshot.png` and reference it here:
-
-```
-![App screenshot](assets/screenshot.png)
-```
+<img width="1096" height="1105" alt="QR_Code_Generator_UI" src="https://github.com/user-attachments/assets/f0ec5914-aaae-46e8-8e9d-67dd1eb0ee2a" />
 
 ## Installation
 
@@ -97,11 +93,4 @@ From `requirements.txt`:
 
 Contributions are welcome! Read **[CONTRIBUTING.md](CONTRIBUTING.md)** for style, testing, and PR tips.
 
-## License
-
-Add a license if you plan to distribute. Otherwise, this code is provided as‑is, without warranty.
-=======
-# Advanced-QR-Code-Generator
-A cross-platform desktop app to create QR codes with a live preview and customization
->>>>>>> e555cdff646a229d6ae6116c6e8fc5552605ba76
 
